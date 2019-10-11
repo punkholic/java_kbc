@@ -1,1 +1,3 @@
-A Quiz With Java
+# Simple Java Quiz
+
+A simple Quiz game based on Java!
